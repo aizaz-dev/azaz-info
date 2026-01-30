@@ -2,10 +2,15 @@ BEGIN:VCARD
 VERSION:3.0
 N:;Azaz;;;
 FN:Azaz
+ORG:Software Developer
 TITLE:Software Developer
-TEL;TYPE=CELL:+92XXXXXXXXX
-URL:https://github.com/aizaz-dev
-URL:https://www.linkedin.com/in/azaz-khan-76b1001bb/
-URL:https://instagram.com/azaz.dev
-URL:https://tiktok.com/@azaz.dev
+TEL;TYPE=CELL,VOICE:+92XXXXXXXXX
+item1.URL:https://github.com/aizaz-dev
+item1.X-ABLabel:GitHub
+item2.URL:https://www.linkedin.com/in/azaz-khan-76b1001bb/
+item2.X-ABLabel:LinkedIn
+item3.URL:https://instagram.com/azaz.dev
+item3.X-ABLabel:Instagram
+item4.URL:https://tiktok.com/@azaz.dev
+item4.X-ABLabel:TikTok
 END:VCARD

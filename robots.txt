@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aizaz-dev.github.io/azaz-info/sitemap.xml
